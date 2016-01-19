@@ -12,13 +12,13 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://139.196.111.125:8080/ChatDemo.ipa</string> 
+            <string>http://139.196.111.125:8080/test1.ipa</string> 
           </dict> 
         </array>  
         <key>metadata</key>  
         <dict> 
           <key>bundle-identifier</key>  
-          <string>afei29515</string>  
+          <string>afei29515.test1</string>  
           <key>bundle-version</key>  
           <string>1.0</string>  
           <key>kind</key>  
