@@ -12,7 +12,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://git.oschina.net/java11/ios-test/raw/master/ChatDemo.ipa</string> 
+            <string>http://139.196.111.125:8080/ChatDemo.ipa</string> 
           </dict> 
         </array>  
         <key>metadata</key>  
